@@ -1,0 +1,6 @@
+{
+  "name": "Criador de Sites - Criação de Sites Profissionais",
+  "description": "Plataforma comercial para criação de sites modernos, responsivos e landing pages para pequenos empreendedores e empresas no Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
